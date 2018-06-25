@@ -4,7 +4,7 @@ numbers = []
 
 while i<6:
     for name in animals:
-    print(f"The first animal is at {i} and is a animals{i}" )
+     print(f"The first animal is at {i}")
     numbers.append(i)
     i = i + 1
 
